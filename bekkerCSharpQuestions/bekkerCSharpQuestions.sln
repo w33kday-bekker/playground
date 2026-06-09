@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bekkerCSharpQuestions", "bekkerCSharpQuestions.csproj", "{885339E8-2686-9FF9-C94D-2A1B1AFB3CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885339E8-2686-9FF9-C94D-2A1B1AFB3CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885339E8-2686-9FF9-C94D-2A1B1AFB3CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885339E8-2686-9FF9-C94D-2A1B1AFB3CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885339E8-2686-9FF9-C94D-2A1B1AFB3CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB165F1-380C-4CC3-91E4-FC0231BAEAF4}
+	EndGlobalSection
+EndGlobal
